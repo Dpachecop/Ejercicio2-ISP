@@ -2,6 +2,6 @@ package Interface;
 
 public interface Retirar {
     
-    public void retirar(double valor, String puntoRetiro);
+     void retirar(double valor, String puntoRetiro);
     
 }

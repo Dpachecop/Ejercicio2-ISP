@@ -3,7 +3,7 @@ import Implementacion.RetirarDinero;
 import Implementacion.SaldarFactura;
 import Implementacion.TransferenciaDinero;
 
-public class Main {
+public class Main_2 {
     public static void main(String[] args) {
         RetirarDinero retirarDinero = new RetirarDinero();
         SaldarFactura saldarFactura= new SaldarFactura();
